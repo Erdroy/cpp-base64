@@ -1,2 +1,8 @@
 *.swp
 test-base64
+
+# VS
+[Oo]bj/
+x64/
+[Dd]ebug/
+[Rr]elease/
